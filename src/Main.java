@@ -5,6 +5,7 @@ public class Main {
 	
 	
 	
+	
 	/*   
 	 * //Q1- Create a abstract class having write and refill method.
 	 * 
